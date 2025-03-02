@@ -1,3 +1,8 @@
+#Odp.: oba przemówienia mają podobne priorytety, ale skupiają się na różnych kwestiach w zależności od sytuacji.
+#Uporządkowany kod:
+
+
+
 # Tworzenie chmury słów za pomocą pakietu wordcloud 
 
 install.packages("wordcloud") 
